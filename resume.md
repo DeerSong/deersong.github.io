@@ -1,10 +1,12 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Resume
+subtitle: 走过的路
 layout: "page"
 icon: fa-book
 order: 3
 ---
+
+漫漫人生路 总会错几步
 
 I love books! Here are some I'm reading now:
 
