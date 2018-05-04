@@ -34,9 +34,9 @@ title: 可怜的小型野猫
 subtitle: 喵喵喵
 description: >- # this means to ignore newlines until "baseurl:"
   Finally, my blog has been settled.
-author: Your Incredible Name
+author: 张鹿颂
 email: zhanglusongg@gmail.com
-avatar: assets/images/avatar.jpg
+avatar: assets/images/avatar.jpg # 头像
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
