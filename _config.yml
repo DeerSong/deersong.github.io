@@ -44,10 +44,10 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url:
-github_url:
-googleplus_url:
-instagram_url:
-linkedin_url:
+github_url: https://github.com/DeerSong
+googleplus_url: asdfasdf
+instagram_url: asdfsadf
+linkedin_url: 
 pinterest_url:
 slack_url:
 twitter_url:

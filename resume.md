@@ -2,7 +2,7 @@
 title: Resume
 subtitle: 走过的路
 layout: "page"
-icon: fa-book
+icon: fa-graduation-cap
 order: 3
 ---
 
